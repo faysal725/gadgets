@@ -1,0 +1,30 @@
+
+.card{
+    border:none;
+    padding-top: 80px;
+}
+.card-footer{
+    border-top:none;
+    text-align: center;
+}
+
+
+.card-body{
+    text-align: center;
+}
+
+.smartphone, .laptop{
+    padding-top: 80px;
+}
+
+.cat{
+    text-align: center;
+    padding-top:80px;
+}
+
+
+.foot{
+    padding-left: 50px;
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
